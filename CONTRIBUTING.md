@@ -3182,3 +3182,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: BTECH undergrad 3rd year CSE, BVCOE 
 - GitHub: [anacodermisra](https://github.com/anacodermisra)
+
+#### Name: [Amelia Williams](https://github.com/c7b3rp1nk)
+- Place: United States
+- Bio: Student
+- Github: [c7b3rp1nk](https://github.com/c7b3rp1nk)
